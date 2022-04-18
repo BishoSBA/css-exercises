@@ -1,0 +1,19 @@
+p{
+    background-color: rgb(255, 167, 180);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#A2{
+    color: blue;
+    font-size: 36px;
+}
+
+#A3{
+    font-size: 36px;
+}
+
+#A4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
